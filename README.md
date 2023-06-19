@@ -1,4 +1,3 @@
-Olá pessoal do LinkedIn!
 
 Hoje quero falar um pouco sobre como um banco de dados relacional com tabelas para empresas, presidentes, estados e cidades pode ajudar empresas de todos os portes.
 
